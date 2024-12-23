@@ -1,7 +1,8 @@
 # Football Match Management System
 
 ## Description
-This is a backend system for managing football teams, match invitations, chat functionalities, and tournaments. The project is built using Django and Django REST Framework (DRF), and it includes functionalities such as:
+## Description
+This is a backend system for managing football teams, match invitations, chat functionalities, and tournaments. The project is specifically designed for football enthusiasts who enjoy playing casually rather than at a professional level. It's for people who have teams made up of their friends, playing street football or recreational matches. The system allows users to register, create teams, send match invitations, communicate through chat, and manage tournaments. and it includes functionalities such as:
 - User registration and authentication
 - Team management
 - Match invitations between teams
